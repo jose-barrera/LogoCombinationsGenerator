@@ -1,6 +1,5 @@
-Código para generar archivos de imágenes con todas las combinaciones posibles de logotipos de partidos políticos.
+# Logo Generator
 
-Artículo en Medium:
+Code to generate image files for every possible combination of political parties logotypes.
 
-https://joseluisbarreracanto.medium.com/generador-de-combinaciones-de-logotipos-electorales-76f9c7fb0586
-
+View the [article](https://joseluisbarreracanto.medium.com/generador-de-combinaciones-de-logotipos-electorales-76f9c7fb0586) on Medium.
